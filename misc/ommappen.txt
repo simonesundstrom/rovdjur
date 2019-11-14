@@ -1,1 +1,27 @@
 Denna mapp skall innehålla dina skisser, dokumention etc.
+
+INPUT-reflektion
+
+Varför designar vi en mobiltelefon sida först?
+Eftersom de flesta använder mobiler så kan det vara bra att designa hemsidan 
+efter mobiler. 
+
+Vilka ramar sätter en mobilsida på utseendet?
+Eftersom att olika mobiler har olika bredd och storlek så måste 
+GRID vara uppbyggt på ett sätt som är anpassat för mobil enheter, tex smalare. 
+Eftersom att de flesta användarna kollar på mobila hemsidor när de har bråttom 
+så är det viktigt att ha en tydlig struktur och en text som är enkel att läsa.  
+
+Vad gör en mobilsida bra?
+- Man behöver inte zooma in eller ut
+- Uppbyggnaden ser naturlig ut
+
+Vilka kunskaper har jag redan som jag kan använda mig av i detta projekt?
+Kunskaper i gränssnittsdesign kan hjälpa, eftersom att det handlar en del 
+om användarvänlighet och nu går vi igenom vad man ska tänka på när det kommer till 
+designen av fonter, färger och uppbyggnad. 
+
+Vad kommer bli min utmaning?
+Min utmaning kommer bli det mesta när det kommer till kodning. 
+Speciellt eftersom att det känns som att alla kunskaper inom CSS, HTML och Javascript 
+har mixats ihop till en speciell smoothie. 
