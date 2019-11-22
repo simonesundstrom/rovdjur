@@ -14,7 +14,7 @@ så är det viktigt att ha en tydlig struktur och en text som är enkel att läs
 
 Vad gör en mobilsida bra?
 - Man behöver inte zooma in eller ut
-- Uppbyggnaden ser naturlig ut
+-Uppbyggnaden ser naturlig ut
 
 Vilka kunskaper har jag redan som jag kan använda mig av i detta projekt?
 Kunskaper i gränssnittsdesign kan hjälpa, eftersom att det handlar en del 

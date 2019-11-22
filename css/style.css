@@ -1,6 +1,11 @@
-@media screen and (max-width: 440px)
+@media screen and (max-width: 481px){
 
-#container {
+body {
+   font-family: sans-serif;
+   text-align: justify;
+
+}
+    #container {
     display: grid;
     Height: 100vh;
     width: 100vh;
@@ -14,20 +19,56 @@
 
 }
 
+#p1 {
+    font-size: x-large;
+    text-align: center;
+}
+
 header {
     grid-area: hd;
-    background-color: aquamarine;
+    background-color: aqua;
+    height: 5vh;
+    width: 70%;
+
 }
+
+#natur {
+    height: 5vh;
+    width: 100%;
+
+  }
 
 nav {
     grid-area: nav;
-
+    width: 70%;
+    height: auto;
+    margin-left: 1vh;
+    margin-right: 5vh;
 }
+
+
+
 
 aside {
     grid-area: as;
+    background-color: blue;
+    width: 67%;
 }
+
+#bild {
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+
+  }
+
+
 
 footer {
     grid-area: ft;
+    height: 5vh;
+    background-color: rebeccapurple;
+    width: 67%;
+}
+
 }
