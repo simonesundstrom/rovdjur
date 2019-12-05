@@ -1,15 +1,15 @@
-@media screen and (max-width: 481px){
+/* @media screen and (max-width: 481px){ */
 
 body {
-   font-family: sans-serif;
+   font-family: arial;
    text-align: justify;
+
 
 }
     #container {
     display: grid;
-    Height: 100vh;
-    width: 100vh;
-    grid-column-gap: 3px;
+    height: 100vh;
+    width: 95vw;
     grid-row-gap: 5px;
     grid-template-areas: 
     'hd'
@@ -26,24 +26,36 @@ body {
 
 header {
     grid-area: hd;
-    background-color: aqua;
-    height: 5vh;
-    width: 70%;
+    text-align: center;
+    height: 100px; 
+}
+
+
+
+
+
+#logga {
+    height: 70px;
+    width: 70px;
+}
+
+#ingress {
+    font-weight: bold;
 
 }
 
-#natur {
-    height: 5vh;
+.underrubrik {
+    font-weight: bold;
+}
+
+#bild {
+    height: auto;
     width: 100%;
 
   }
 
 nav {
     grid-area: nav;
-    width: 70%;
-    height: auto;
-    margin-left: 1vh;
-    margin-right: 5vh;
 }
 
 
@@ -52,23 +64,28 @@ nav {
 aside {
     grid-area: as;
     background-color: blue;
-    width: 67%;
+
 }
 
-#bild {
-    width: 40%;
-    height: auto;
-    margin-left: auto;
 
-  }
 
+img {
+    width:100%; 
+}
 
 
 footer {
     grid-area: ft;
-    height: 5vh;
     background-color: rebeccapurple;
-    width: 67%;
+   
 }
 
+#lanktext {
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    color: darkolivegreen;
+
 }
+/* 
+} */
