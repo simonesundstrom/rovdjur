@@ -28,6 +28,7 @@ header {
     grid-area: hd;
     text-align: center;
     height: 100px; 
+    background-color: cadetblue;
 }
 
 
@@ -37,6 +38,8 @@ header {
 #logga {
     height: 70px;
     width: 70px;
+    margin-right: 70vw;
+    margin-top: 10px;
 }
 
 #ingress {
