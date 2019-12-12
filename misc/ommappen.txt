@@ -25,3 +25,6 @@ Vad kommer bli min utmaning?
 Min utmaning kommer bli det mesta när det kommer till kodning. 
 Speciellt eftersom att det känns som att alla kunskaper inom CSS, HTML och Javascript 
 har mixats ihop till en speciell smoothie. 
+
+
+
